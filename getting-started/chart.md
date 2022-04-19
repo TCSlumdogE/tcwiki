@@ -1,3 +1,7 @@
+---
+description: Of course, you want to see a chart before you do anything.
+---
+
 # 📈 Chart
 
 You can easily find the Chart for our [liquidity-pools.md](liquidity-pools.md "mention") on [dexscreener.com](https://dexscreener.com).\

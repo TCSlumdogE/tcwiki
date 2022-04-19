@@ -1,5 +1,5 @@
 ---
-description: Meet our Co-Payers
+description: Now it's time to trade.
 ---
 
 # 🚀 Trade

@@ -1,5 +1,5 @@
 ---
-description: Meet the Team
+description: Now let's set up Metamask.
 ---
 
 # 💰 Metamask Wallet
