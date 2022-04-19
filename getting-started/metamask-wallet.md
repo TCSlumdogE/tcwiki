@@ -20,8 +20,14 @@ Follow the steps in Metamask, _if there are any._\
 __Now you have your Amity Wallet from our Discord Server in your Metamask, too.\
 And the Balance is synced up.
 
-\
+
+
 **Step 2:**\
+Add the Avalanche Network to your Metamask:\
+[https://www.followchain.org/add-avalanche-metamask/](https://www.followchain.org/add-avalanche-metamask/)
+
+\
+**Step 3:**\
 Now, we need to add `TCC` and `tcPOT` to your Metamask of course.\
 Click on Assets, scroll down to "Import Tokens", and click it.\
 From there click on "Custom Token" an insert: \
