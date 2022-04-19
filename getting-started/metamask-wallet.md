@@ -27,7 +27,7 @@ Add the Avalanche Network to your Metamask:\
 **Step 3:**\
 Now, we need to add `TCC` and `tcPOT` to your Metamask of course.\
 Click on Assets, scroll down to "Import Tokens", and click it.\
-From there click on "Custom Token" an insert: \
+From there click on "Custom Token" and insert: \
 `0xFAA9c23BB4826201BF048C10B4B8A759B866cD61` for TCC\
 `0xEF90D48797D0589167Bb0E2A7294d01d703258C4` for tcPOT\
 \
