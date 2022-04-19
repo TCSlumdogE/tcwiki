@@ -4,6 +4,8 @@ description: First of all, let's get started with our Story.
 
 # 📑 Our Story
 
+{% embed url="https://www.youtube.com/watch?v=Llj8lzfAW5w" %}
+
 The Baked Potato is one of our co-founders and an experienced freelance technical analyst. After nearly a decade of learning stuff & things, he perfected his Triple Confirmation strategy, an ingenious and unparalleled method for identifying high success rate entry-and-exit points of momentum trades.
 
 After a time of extremely successful wealth building and creativity, Master Potato decided to share with the world his incredible method. He formed a Discord community as well as a YouTube channel, both of which have thousands of subscribers. Potato continued to build the community around his strategy, and with the assistance of our other founder Slumdoge, created corresponding indicators for Trading View. The system matured and improved with the help of the community, growing organically.
