@@ -12,7 +12,7 @@ If you didn't install Metamask yet, please do it here: [https://metamask.io/](ht
 Remember when you saved your [amity-wallet.md](amity-wallet.md "mention") Private key?\
 Time to use that now.\
 Click on the little circle on the top right corner of your Metamask, it should look like that, or similar: \
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">\
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">\
 After that click on `Import Account`.\
 ![](<../.gitbook/assets/image (1) (1).png>)\
 Enter your [amity-wallet.md](amity-wallet.md "mention") Private key and click on `Import`.\

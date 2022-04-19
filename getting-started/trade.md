@@ -32,4 +32,6 @@ It should look like that:\
 Click on **Add**.\
 Now you're good to go.\
 \
-Enjoy Trading on [Trader Joe](https://traderjoexyz.com/home#/).
+\
+Check out the Guide from **** [Trader Joe](https://traderjoexyz.com/home#/): \
+[https://docs.traderjoexyz.com/main/trader-joe/exchange](https://docs.traderjoexyz.com/main/trader-joe/exchange)
