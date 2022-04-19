@@ -11,10 +11,10 @@
 
 * [💰 Amity Wallet](getting-started/amity-wallet.md)
 * [💰 Metamask Wallet](getting-started/metamask-wallet.md)
-* [🌊 Liquidity Pools](getting-started/liquidity-pools.md)
+* [📈 Chart](getting-started/chart.md)
 * [🚀 Trade](getting-started/trade.md)
 * [⚖ Staking](getting-started/staking.md)
-* [📈 Chart](getting-started/chart.md)
+* [🌊 Liquidity Pools](getting-started/liquidity-pools.md)
 
 ## Free to Earn | Potheads
 

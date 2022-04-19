@@ -14,7 +14,7 @@ Time to use that now.\
 Click on the little circle on the top right corner of your Metamask, it should look like that, or similar: \
 <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">\
 After that click on `Import Account`.\
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 Enter your [amity-wallet.md](amity-wallet.md "mention") Private key and click on `Import`.\
 Follow the steps in Metamask, _if there are any._\
 __Now you have your Amity Wallet from our Discord Server in your Metamask, too.\
@@ -31,7 +31,7 @@ From there click on "Custom Token" an insert: \
 **Click on "Add Custom Token"**\
 Follow the steps in Metamask, _if there are any._\
 __\
-_From here, you can do whatever you like with your TCC and tcPOT, send it to your Main-Account, send it to Friends,_ [trade.md](trade.md "mention"), use your TCC for [staking.md](staking.md "mention"), and provide Liquidity for our [liquidity-pools.md](liquidity-pools.md "mention") or use it in our [Broken link](broken-reference "mention") NFTs.\
+_From here, you can do whatever you like with your TCC and tcPOT, send it to your Main-Account, send it to Friends,_ [trade.md](trade.md "mention"), use your TCC for [staking.md](staking.md "mention"), and provide Liquidity for our [liquidity-pools.md](liquidity-pools.md "mention") or use it in our [Broken link](broken-reference "mention") NFTs. Of course, you need a little bit of AVAX to cover Gas-Fees, don't forget that!\
 \
 And don't forget our upcoming [Broken link](broken-reference "mention"), you'll need all TC Ecosystem Tokens for that!\
 \

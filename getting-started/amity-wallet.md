@@ -16,7 +16,7 @@ Press `TAB` or `Space` on your Keyboard after writing `/network` or select `netw
 \
 **It should look like this:**
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 Now, you should be good to go to add `TCC` and `tcPOT` to your Wallet.\
 You can easily do that with `/addtoken`\
@@ -28,7 +28,7 @@ For `tcPOT`:\
 For `tcPOT`, do `/addtoken` followed by `SPACE` or `TAB` or select contract and type in `tcPOT` into the `Contract` Field.\
 \
 **It should look like this:**\
-****![](<../.gitbook/assets/image (2).png>) \
+****![](<../.gitbook/assets/image (2) (1).png>) \
 \
 In the rare cases that the Shortcodes for TCC and tcPOT are not working, use the [token-contracts.md](../about-us/token-contracts.md "mention") instead of TCC or tcPOT.\
 \
