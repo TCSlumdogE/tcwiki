@@ -1,3 +1,7 @@
+---
+description: Provide Liquidity to earn Trading Fees.
+---
+
 # 🌊 Liquidity Pools
 
 Of course, you can provide Liquidity to our Liquidity Pools.\
@@ -26,7 +30,7 @@ It should look like that:\
 \
 Click on **Add Liquidity**.\
 From there it should look like that:\
-<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
 
 From there Insert your 50/50 Ratio and click on "Supply"\
 \

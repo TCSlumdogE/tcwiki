@@ -14,7 +14,7 @@ Time to use that now.\
 Click on the little circle on the top right corner of your Metamask, it should look like that, or similar: \
 <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">\
 After that click on `Import Account`.\
-![](<../.gitbook/assets/image (1) (1).png>)\
+![](<../.gitbook/assets/image (1) (1) (1).png>)\
 Enter your [amity-wallet.md](amity-wallet.md "mention") Private key and click on `Import`.\
 Follow the steps in Metamask, _if there are any._\
 __Now you have your Amity Wallet from our Discord Server in your Metamask, too.\

@@ -15,7 +15,7 @@ _this brings you to the Swap for tcPOT/TCC._\
 [https://traderjoexyz.com/trade?inputCurrency=0xef90d48797d0589167bb0e2a7294d01d703258c4\&outputCurrency=0xfaa9c23bb4826201bf048c10b4b8a759b866cd61#/](https://traderjoexyz.com/trade?inputCurrency=0xef90d48797d0589167bb0e2a7294d01d703258c4\&outputCurrency=0xfaa9c23bb4826201bf048c10b4b8a759b866cd61#/)\
 \
 Follow the Steps on [Trader Joe](https://traderjoexyz.com/home#/), it should look like that:\
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 Click on the checkbox next to "I understand" and then on "Continue".\
 \
 _You should be good to go._ \
@@ -27,7 +27,7 @@ For `TCC`: `0xFAA9c23BB4826201BF048C10B4B8A759B866cD61`\
 For `tcPOT`: `0xEF90D48797D0589167Bb0E2A7294d01d703258C4`\
 \
 It should look like that:\
-![](<../.gitbook/assets/image (2).png>)\
+![](<../.gitbook/assets/image (2) (1).png>)\
 \
 Click on **Add**.\
 Now you're good to go.\
