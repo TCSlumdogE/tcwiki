@@ -18,7 +18,7 @@
 
 ## Free to Earn | Potheads
 
-* [⏰ Soon](free-to-earn-or-potheads/soon.md)
+* [⏰ Introduction](free-to-earn-or-potheads/soon.md)
 
 ## 🤖 Trading Bot
 
